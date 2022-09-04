@@ -1,4 +1,4 @@
-#PARN PRATAP SINGH 2K20/MC/094
+//PARN PRATAP SINGH 2K20/MC/094
 #include <bits/stdc++.h>
 using namespace std;
 int randbin[10],deceq,randdec,wins=0;
